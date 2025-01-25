@@ -1,0 +1,151 @@
+ID,Olympiad_Participation,Scholarship,School,Fav_sub,Projects,Grasp_pow,Time_sprt,Medals,Career_sprt,Act_sprt,Fant_arts,Won_arts,Time_art,predicted_hobby
+0,No,No,Yes,Mathematics,No,4,2,No,No,No,Yes,No,2,Arts
+1,Yes,Yes,Yes,Any language,Yes,2,3,Yes,No,No,No,No,2,Academics
+2,Yes,Yes,Yes,Science,Yes,5,2,Yes,No,No,No,No,1,Academics
+3,Yes,Yes,Yes,Science,Yes,3,3,No,No,No,Yes,Maybe,1,Academics
+4,No,No,No,Mathematics,No,3,4,No,No,No,Yes,Yes,6,Arts
+5,Yes,No,Yes,Mathematics,Yes,5,5,No,Yes,Yes,No,No,1,Sports
+6,No,No,Yes,Science,No,3,1,Yes,Yes,Yes,No,No,2,Sports
+7,Yes,Yes,Yes,Any language,No,4,3,No,No,No,No,No,2,Academics
+8,Yes,No,No,Mathematics,No,2,2,No,Yes,No,Yes,No,1,Sports
+9,Yes,Yes,Yes,Mathematics,Yes,4,2,Yes,No,No,No,No,1,Academics
+10,Yes,No,Yes,Mathematics,Yes,4,2,Yes,No,No,No,No,1,Academics
+11,Yes,Yes,Yes,Any language,No,5,1,Yes,Yes,No,Yes,Yes,1,Academics
+12,No,No,No,Any language,Yes,1,2,Yes,No,Yes,Yes,Yes,6,Arts
+13,Yes,No,Yes,Science,Yes,3,2,No,Yes,Yes,No,No,1,Sports
+14,No,Yes,Yes,Science,Yes,3,2,No,No,Yes,No,No,1,Academics
+15,Yes,Yes,Yes,Science,Yes,3,2,Yes,No,No,Yes,Maybe,1,Academics
+16,Yes,Yes,Yes,Any language,No,5,3,Yes,No,No,No,No,1,Academics
+17,No,No,No,Mathematics,Yes,3,1,No,No,No,Yes,Yes,2,Arts
+18,Yes,Yes,Yes,History/Geography,No,4,1,No,No,No,No,No,1,Academics
+19,No,No,No,Mathematics,No,4,3,Yes,Yes,Yes,No,No,2,Sports
+20,No,Yes,No,Science,No,1,2,No,Yes,Yes,No,No,3,Sports
+21,Yes,Yes,No,Science,No,2,2,No,Yes,No,Yes,No,1,Academics
+22,No,No,Yes,Any language,No,5,2,No,Yes,Yes,Yes,Yes,1,Sports
+23,Yes,Yes,Yes,Science,Yes,1,3,Yes,No,Yes,No,No,1,Academics
+24,Yes,Yes,Yes,History/Geography,No,5,1,No,No,No,No,No,1,Academics
+25,No,No,No,History/Geography,No,3,3,Yes,Yes,Yes,No,No,1,Sports
+26,No,Yes,No,Mathematics,No,3,2,Yes,No,Yes,Yes,No,1,Academics
+27,No,No,Yes,Mathematics,No,3,6,Yes,Yes,Yes,No,Yes,4,Sports
+28,Yes,Yes,Yes,Science,Yes,5,3,Yes,No,Yes,Yes,No,2,Academics
+29,No,No,No,History/Geography,No,3,2,Yes,No,No,No,Yes,4,Arts
+30,Yes,Yes,Yes,Mathematics,Yes,3,3,Yes,No,No,No,No,2,Academics
+31,Yes,Yes,Yes,Mathematics,No,3,2,No,No,No,No,No,1,Academics
+32,No,Yes,Yes,Any language,Yes,4,3,No,No,Yes,Yes,Yes,1,Arts
+33,No,No,Yes,Any language,Yes,2,3,Yes,Yes,Yes,No,Yes,2,Sports
+34,Yes,Yes,Yes,Any language,Yes,3,1,Yes,Yes,Yes,Yes,Maybe,2,Academics
+35,Yes,No,Yes,Science,No,3,3,No,No,Yes,Yes,Yes,3,Arts
+36,Yes,Yes,Yes,Mathematics,No,3,3,No,No,No,No,Maybe,1,Academics
+37,No,No,No,History/Geography,Yes,4,2,Yes,No,No,No,No,1,Academics
+38,Yes,Yes,Yes,Science,Yes,2,3,No,No,No,No,No,3,Academics
+39,Yes,Yes,Yes,Science,Yes,2,3,No,No,No,No,No,1,Academics
+40,Yes,No,Yes,Science,Yes,4,5,Yes,No,Yes,Yes,No,2,Academics
+41,No,Yes,No,Science,Yes,4,3,Yes,Yes,No,Yes,Maybe,5,Arts
+42,Yes,No,Yes,Mathematics,Yes,3,2,No,Yes,Yes,No,No,1,Sports
+43,Yes,Yes,Yes,Any language,Yes,6,2,Yes,No,No,No,No,1,Academics
+44,No,Yes,Yes,Mathematics,Yes,2,4,No,Yes,Yes,No,Maybe,3,Sports
+45,Yes,Yes,Yes,Science,No,5,2,Yes,No,No,No,No,3,Academics
+46,Yes,Yes,Yes,Science,Yes,2,3,Yes,No,Yes,Yes,No,3,Academics
+47,Yes,Yes,No,Science,Yes,5,3,No,No,No,Yes,Maybe,2,Academics
+48,Yes,No,Yes,Any language,Yes,2,2,Yes,No,Yes,No,Yes,2,Academics
+49,No,No,Yes,Any language,Yes,4,4,Yes,Yes,Yes,No,Maybe,1,Sports
+50,Yes,No,No,Science,No,3,4,Yes,Yes,Yes,No,No,3,Sports
+51,No,No,Yes,Mathematics,No,3,5,Yes,Yes,Yes,No,Maybe,1,Sports
+52,No,No,Yes,Science,No,3,4,Yes,No,Yes,Yes,Yes,5,Arts
+53,Yes,Yes,Yes,Science,Yes,3,2,No,No,No,Yes,No,1,Academics
+54,Yes,No,Yes,Science,Yes,3,3,Yes,No,No,Yes,Yes,2,Arts
+55,No,No,No,Science,Yes,4,3,Yes,Yes,Yes,No,Maybe,3,Sports
+56,Yes,Yes,Yes,Mathematics,No,1,4,No,No,No,No,Maybe,1,Academics
+57,Yes,Yes,Yes,Any language,Yes,2,3,Yes,No,No,No,Maybe,2,Academics
+58,Yes,Yes,Yes,Science,Yes,4,1,Yes,No,Yes,No,No,3,Academics
+59,Yes,No,No,Mathematics,Yes,3,2,Yes,No,No,Yes,No,4,Academics
+60,Yes,Yes,Yes,Any language,Yes,5,2,No,No,No,No,No,1,Academics
+61,Yes,Yes,Yes,Science,Yes,5,3,No,No,No,Yes,No,3,Academics
+62,No,Yes,Yes,Any language,Yes,2,6,Yes,No,Yes,Yes,Yes,3,Arts
+63,Yes,Yes,Yes,Any language,Yes,4,2,Yes,No,Yes,No,Yes,1,Academics
+64,No,No,No,Mathematics,No,3,3,Yes,No,No,Yes,Yes,5,Arts
+65,Yes,Yes,Yes,Science,Yes,5,3,No,No,No,Yes,Maybe,2,Academics
+66,Yes,Yes,Yes,Mathematics,No,3,3,Yes,No,No,Yes,No,2,Academics
+67,Yes,No,No,Any language,Yes,1,2,Yes,No,Yes,Yes,Yes,2,Academics
+68,No,Yes,No,Any language,No,4,2,No,No,No,Yes,Yes,5,Arts
+69,No,Yes,No,Any language,Yes,5,3,Yes,No,Yes,No,Yes,3,Academics
+70,No,No,No,Science,No,3,4,Yes,Yes,Yes,No,No,2,Sports
+71,Yes,Yes,Yes,Science,No,4,3,Yes,No,No,Yes,Maybe,1,Academics
+72,No,No,Yes,Mathematics,No,3,2,No,Yes,Yes,No,No,2,Sports
+73,No,No,No,Mathematics,No,2,2,No,No,No,Yes,Yes,4,Arts
+74,Yes,Yes,Yes,Science,Yes,3,4,No,No,No,No,No,3,Academics
+75,Yes,Yes,Yes,Mathematics,Yes,2,2,Yes,Yes,No,Yes,Yes,4,Arts
+76,No,No,Yes,Mathematics,No,3,6,No,Yes,Yes,Yes,No,3,Sports
+77,No,No,Yes,Mathematics,No,3,6,Yes,Yes,Yes,Yes,Yes,4,Arts
+78,No,No,Yes,Mathematics,Yes,3,3,Yes,Yes,Yes,No,Yes,2,Sports
+79,Yes,No,Yes,Mathematics,Yes,3,2,No,Yes,Yes,No,No,1,Sports
+80,No,No,No,Any language,No,4,4,Yes,Yes,Yes,No,No,1,Sports
+81,Yes,No,No,Mathematics,No,3,2,No,Yes,Yes,Yes,Yes,4,Arts
+82,No,No,No,Science,No,3,3,Yes,Yes,Yes,No,No,1,Sports
+83,No,No,Yes,Science,No,4,3,No,No,Yes,No,Maybe,2,Sports
+84,Yes,No,Yes,Mathematics,Yes,2,2,Yes,Yes,Yes,No,No,2,Sports
+85,No,No,No,Any language,No,4,4,Yes,Yes,Yes,No,Maybe,1,Sports
+86,Yes,Yes,Yes,Mathematics,No,4,3,No,No,No,No,No,1,Academics
+87,No,No,Yes,History/Geography,No,3,1,No,No,Yes,Yes,Yes,4,Arts
+88,Yes,Yes,Yes,Science,Yes,3,3,Yes,No,No,No,No,1,Academics
+89,Yes,No,Yes,Mathematics,Yes,4,4,No,Yes,No,No,No,1,Sports
+90,Yes,Yes,Yes,Science,No,2,3,Yes,No,No,Yes,Maybe,4,Academics
+91,Yes,No,Yes,History/Geography,No,4,4,Yes,No,Yes,Yes,No,1,Academics
+92,No,No,No,Science,No,3,3,Yes,Yes,Yes,No,No,2,Sports
+93,Yes,Yes,Yes,Science,No,3,2,No,No,Yes,Yes,No,3,Academics
+94,No,No,Yes,Mathematics,Yes,3,1,No,No,No,Yes,No,1,Academics
+95,Yes,Yes,Yes,Any language,Yes,5,3,No,No,No,No,Maybe,1,Academics
+96,No,No,Yes,Mathematics,No,3,4,No,No,No,Yes,Maybe,4,Arts
+97,Yes,Yes,Yes,Science,Yes,5,3,Yes,No,No,No,No,1,Academics
+98,No,No,Yes,Mathematics,Yes,1,6,Yes,Yes,Yes,No,No,1,Sports
+99,No,No,No,Science,No,3,2,No,No,No,Yes,Yes,4,Arts
+100,Yes,Yes,Yes,Any language,Yes,5,2,Yes,No,No,No,Maybe,1,Academics
+101,No,No,No,Any language,No,4,2,No,No,No,Yes,Yes,1,Arts
+102,Yes,Yes,Yes,History/Geography,No,2,2,Yes,No,Yes,Yes,No,1,Academics
+103,No,No,No,Mathematics,No,3,3,No,No,No,Yes,Yes,4,Arts
+104,No,No,No,Any language,Yes,2,2,No,No,No,Yes,Yes,1,Arts
+105,Yes,Yes,Yes,Any language,Yes,3,3,No,No,No,No,No,2,Academics
+106,Yes,Yes,No,Mathematics,No,4,3,Yes,No,No,Yes,No,2,Academics
+107,Yes,Yes,Yes,Science,Yes,3,5,Yes,No,Yes,No,No,2,Academics
+108,No,No,No,Science,No,4,3,No,No,Yes,Yes,No,3,Academics
+109,Yes,No,Yes,Mathematics,No,3,6,Yes,Yes,No,No,Maybe,2,Sports
+110,No,No,Yes,Science,No,4,3,No,Yes,Yes,No,No,3,Sports
+111,Yes,Yes,Yes,History/Geography,Yes,3,3,Yes,No,Yes,Yes,No,3,Academics
+112,Yes,No,Yes,Science,Yes,4,5,Yes,Yes,Yes,No,No,2,Sports
+113,No,No,No,Mathematics,Yes,5,3,Yes,Yes,Yes,No,No,1,Sports
+114,No,No,No,Any language,Yes,3,3,No,No,No,No,Maybe,2,Academics
+115,No,No,No,Science,No,4,3,Yes,Yes,Yes,No,No,2,Sports
+116,Yes,Yes,Yes,Science,Yes,5,3,No,No,No,No,No,2,Academics
+117,Yes,Yes,Yes,Science,Yes,3,2,No,No,No,Yes,No,1,Academics
+118,Yes,Yes,Yes,Science,Yes,4,4,No,No,No,No,No,5,Academics
+119,Yes,Yes,Yes,Mathematics,Yes,2,2,No,No,No,No,No,1,Academics
+120,No,No,No,Mathematics,No,2,6,No,No,No,Yes,Yes,4,Arts
+121,No,No,No,Science,No,2,4,Yes,Yes,Yes,No,No,1,Sports
+122,Yes,Yes,Yes,Mathematics,No,4,3,No,No,No,No,No,2,Academics
+123,Yes,No,Yes,Mathematics,No,5,3,No,No,Yes,Yes,No,3,Academics
+124,No,No,Yes,History/Geography,No,3,3,Yes,Yes,Yes,No,No,4,Sports
+125,Yes,Yes,Yes,History/Geography,Yes,4,3,Yes,No,Yes,Yes,No,3,Academics
+126,Yes,Yes,Yes,Science,No,4,2,No,No,No,No,No,1,Academics
+127,No,No,No,Any language,No,4,2,Yes,No,Yes,No,Yes,1,Academics
+128,Yes,Yes,Yes,Science,Yes,5,2,No,No,No,No,Maybe,1,Academics
+129,Yes,Yes,Yes,Science,Yes,5,3,No,No,No,Yes,Maybe,1,Academics
+130,No,No,No,Any language,No,4,2,Yes,No,Yes,Yes,No,2,Academics
+131,Yes,No,Yes,Any language,No,3,3,No,Yes,Yes,No,Yes,2,Sports
+132,Yes,Yes,Yes,History/Geography,Yes,2,5,No,Yes,Yes,No,No,1,Sports
+133,No,No,Yes,Mathematics,Yes,4,4,Yes,Yes,Yes,No,Maybe,1,Sports
+134,Yes,Yes,Yes,Mathematics,Yes,5,5,Yes,Yes,Yes,No,No,4,Sports
+135,Yes,Yes,Yes,Science,Yes,1,2,Yes,No,Yes,Yes,Maybe,1,Academics
+136,Yes,Yes,Yes,Mathematics,Yes,3,2,No,No,No,Yes,No,2,Academics
+137,No,No,Yes,Mathematics,No,2,6,No,Yes,Yes,No,No,3,Sports
+138,Yes,Yes,Yes,Science,No,2,2,Yes,No,Yes,No,No,1,Academics
+139,No,No,No,History/Geography,No,3,3,No,No,No,Yes,Yes,2,Arts
+140,No,No,No,Science,No,2,3,Yes,Yes,Yes,No,No,2,Sports
+141,Yes,Yes,Yes,Science,Yes,2,3,No,No,No,No,No,3,Academics
+142,Yes,Yes,Yes,Any language,Yes,2,2,No,No,No,No,No,1,Academics
+143,Yes,Yes,Yes,Science,Yes,3,2,No,No,No,No,No,1,Academics
+144,Yes,Yes,Yes,Mathematics,No,3,2,No,No,No,Yes,No,1,Academics
+145,Yes,Yes,Yes,Any language,Yes,2,6,Yes,No,No,No,No,2,Academics
+146,Yes,Yes,Yes,Science,Yes,5,1,No,No,No,Yes,Maybe,1,Academics
+147,Yes,No,No,Any language,No,5,2,No,Yes,Yes,Yes,Yes,1,Sports
+148,No,No,No,Science,Yes,3,1,No,No,No,Yes,Yes,1,Arts
+149,No,No,Yes,Mathematics,No,5,3,No,No,Yes,Yes,No,3,Academics
